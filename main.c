@@ -3,7 +3,7 @@
 #include "include/c_string.h"
 
 int _start() {
-    print("Testqweqweqweqweqweqwe\n");
+    print_num(2147483647);
 
     exit(22);
 }
